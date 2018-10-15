@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wingselist">
+        <item>@string/wingtype1</item>
+        <item>@string/wingtype2</item>
+        <item>@string/wingtype3</item>
+    </string-array>
+</resources>

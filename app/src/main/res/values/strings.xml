@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasks To Dos App</string>
+    <string name="wingtype1">Electricity</string>
+    <string name="wingtype2">Construction</string>
+    <string name="wingtype3">decoration</string>
+    <string name="feedbacktype">Choose your wing</string>
+</resources>
